@@ -1,7 +1,4 @@
-## Eu sou Rodrigo.
-
-- Cursando graduação em Análise e Desenvolvimento de Sistema.
-
+## Conta de teste de projetos :D.
 
 <div align="center">
   <a href="https://github.com/didjtyrjeu/">
