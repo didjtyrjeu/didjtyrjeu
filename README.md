@@ -2,8 +2,9 @@
 
 <div align="center">
   <a href="https://github.com/didjtyrjeu/">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=didjtyrjeu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=didjtyrjeu&layout=compact&langs_count=7&theme=dark"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=didjtyrjeu&show_icons=true&theme=dark&bg_color=30,FFFFFF,B6FFFF&title_color=000000&text_color=000000&icon_color=000000&border_color=FFFFFF&include_all_commits=true&count_private=true"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=didjtyrjeu&layout=compact&langs_count=7&theme=dark&bg_color=30,FFFFFF,B6FFFF&title_color=000000&text_color=000000&icon_color=000000&border_color=FFFFFF"/>
+  </a>
 </div>
 
 <div style="display: inline_block"><br>
